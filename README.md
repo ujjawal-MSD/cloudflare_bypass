@@ -107,27 +107,27 @@ The script will automatically fetch and print IP addresses from multiple Tor ins
 
 ```text
 [2024-11-11T11:21:43.340Z] Updated IPs in this cycle:
-Instance 1 (SOCKS Port 9050): New IP is 185.241.208.115
-Instance 2 (SOCKS Port 9052): New IP is 103.251.167.10
-Instance 3 (SOCKS Port 9054): New IP is 185.220.101.69
-Instance 4 (SOCKS Port 9056): New IP is 192.42.116.180
-Instance 5 (SOCKS Port 9058): New IP is 185.244.192.184
-Instance 6 (SOCKS Port 9060): New IP is 45.134.225.36
-Instance 7 (SOCKS Port 9062): New IP is 23.153.248.34
-Instance 8 (SOCKS Port 9064): New IP is 185.100.87.253
-Instance 9 (SOCKS Port 9066): New IP is 192.42.116.215
-Instance 10 (SOCKS Port 9068): New IP is 199.195.250.18
+Instance 1 (SOCKS Port 9050): New IP is 185.241.208.xxx
+Instance 2 (SOCKS Port 9052): New IP is 103.251.167.xxx
+Instance 3 (SOCKS Port 9054): New IP is 185.220.101.xxx
+Instance 4 (SOCKS Port 9056): New IP is 192.42.116.xxx
+Instance 5 (SOCKS Port 9058): New IP is 185.244.192.xxx
+Instance 6 (SOCKS Port 9060): New IP is 45.134.225.xxx
+Instance 7 (SOCKS Port 9062): New IP is 23.153.248.xxx
+Instance 8 (SOCKS Port 9064): New IP is 185.100.87.xxx
+Instance 9 (SOCKS Port 9066): New IP is 192.42.116.xxx
+Instance 10 (SOCKS Port 9068): New IP is 199.195.250.xx
 Current IPs: [
-  '185.241.208.115',
-  '103.251.167.10',
-  '185.220.101.69',
-  '192.42.116.180',
-  '185.244.192.184',
-  '45.134.225.36',
-  '23.153.248.34',
-  '185.100.87.253',
-  '192.42.116.215',
-  '199.195.250.18'
+  '185.241.208.xxx',
+  '103.251.167.xxx',
+  '185.220.101.xxx',
+  '192.42.116.xxx',
+  '185.244.192.xxx',
+  '45.134.225.xxx',
+  '23.153.248.xxx',
+  '185.100.87.xxx',
+  '192.42.116.xxx',
+  '199.195.250.xx'
 ]
 ```
 
