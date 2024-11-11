@@ -25,8 +25,8 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/tor-instance-manager.git
-   cd tor-instance-manager
+   git clone https://github.com/ujjawalsol/cloudflare_bypass.git
+   cd cloudflare_bypass
    ```
 
 ## Setting Up Tor
